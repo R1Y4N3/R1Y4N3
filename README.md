@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @R1Y4N3
-- 🌱 I’m currently learning python and bash
+- 🌱 I’m currently learning c++🤧
+i'm a true script kiddie.....yes;i'm....any problem?
 
 
 <!---
